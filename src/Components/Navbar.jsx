@@ -7,7 +7,7 @@ import { FaCartShopping } from "react-icons/fa6";
 const Navbar = () => {
   return (
     <>
-      <nav className="bg-black flex h-[100px] mx-auto my-4 w-[1300px] p-4">
+      <nav className="flex h-[100px] mx-auto my-4 w-[1300px] p-4">
         <div className="container mx-auto flex gap-[90px] items-center">
           <div className="text-white text-lg font-bold flex items-center">
             <FaPaw />
